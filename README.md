@@ -3,7 +3,7 @@
 ## Overview
 This automation reads messages from a Google Sheet and automatically posts them to a Telegram chat using a custom bot. It demonstrates integration between Google Cloud APIs and Telegram’s Bot API.
 
-## ⚙️ Tools Used
+## Tools Used
 - Python
 - Google Sheets API (`gspread`, `oauth2client`)
 - Telegram Bot API (`requests`)
